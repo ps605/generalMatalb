@@ -1,4 +1,6 @@
-clear all;
+% Pavlos Silvestros
+
+clear;
 clc;
 
 dataDir='C:\Users\ps605\Documents\PhD\Study_3\BUCKLING DATA\';
